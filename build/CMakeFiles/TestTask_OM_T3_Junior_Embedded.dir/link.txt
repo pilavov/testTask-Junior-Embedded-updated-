@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TestTask_OM_T3_Junior_Embedded.dir/main.cpp.o CMakeFiles/TestTask_OM_T3_Junior_Embedded.dir/DataBase.cpp.o -o TestTask_OM_T3_Junior_Embedded  -lsqlite3 

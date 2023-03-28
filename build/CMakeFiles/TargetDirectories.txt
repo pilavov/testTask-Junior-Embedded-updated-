@@ -1,0 +1,3 @@
+/home/kpilavov/CLionProjects/TestTask_OM_T3_Junior_Embedded/build/CMakeFiles/TestTask_OM_T3_Junior_Embedded.dir
+/home/kpilavov/CLionProjects/TestTask_OM_T3_Junior_Embedded/build/CMakeFiles/edit_cache.dir
+/home/kpilavov/CLionProjects/TestTask_OM_T3_Junior_Embedded/build/CMakeFiles/rebuild_cache.dir
